@@ -1,0 +1,50 @@
+/*
+selector{
+    propiedad:valor;
+    propiedad:valor;
+    propiedad:valor;
+}
+*/
+
+body{
+    background-color: rgb(189, 131, 240);
+    font-family: 'Amaranth', sans-serif;;
+
+}
+
+
+
+img{
+    width: 250px;
+    
+    
+
+}
+
+p{
+    color: black;
+}
+
+.p-futuro{
+      color:black;
+}
+
+
+
+.main-title{
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    
+
+    font-size: 40px;
+}
+
+.menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a{
+    color: rgb(238, 8, 131);
+}
